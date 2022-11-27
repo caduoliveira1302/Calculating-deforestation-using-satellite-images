@@ -7,7 +7,8 @@ Com essas imagens geralmente  não conseguimos diferenciar entre causas humanas 
 
 # O que devemos fazer:
 
-• Você deve desenvolver um programa para calcular o percentual de floresta densa em uma imagemo. Seja livre para fazer esta análise, porém a recomendação é usar segmentação de imagens por cores através do algoritmo K-Means.
+• Você deve desenvolver um programa para calcular o percentual de floresta densa em uma imagem. 
+      - Seja livre para fazer esta análise, porém a recomendação é usar segmentação de imagens por cores através do algoritmo K-Means.
 
 • Tente readequar seu programa parasegmentar a imagem em diferentes categorias como floresta, terra para pecuária, estradas, etc. 
       - Isto é um desafio proposto, é importante tentar esta etapa e caso não tenha sucesso informar o motivo
